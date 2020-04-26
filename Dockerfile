@@ -1,1 +1,1 @@
-from gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.11.0
+from gcr.io/google_containers/kube-proxy:v1.18.1
