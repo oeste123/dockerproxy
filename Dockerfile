@@ -1,2 +1,2 @@
-FROM goharbor/prepare:v1.10.1
+FROM gitlab/gitlab-ce:latest
 
